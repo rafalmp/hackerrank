@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestCamelcase(t *testing.T) {
+func TestCaesar(t *testing.T) {
 	var tests = []struct {
 		input  string
 		offset int32
